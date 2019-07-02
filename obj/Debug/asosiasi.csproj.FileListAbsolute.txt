@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\asosiasi\asosiasi\obj\Debug\asosiasi.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\asosiasi\asosiasi\obj\Debug\asosiasi.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\asosiasi\asosiasi\bin\Debug\asosiasi.exe.config
+c:\users\amikom\source\repos\asosiasi\asosiasi\bin\Debug\asosiasi.exe
+c:\users\amikom\source\repos\asosiasi\asosiasi\bin\Debug\asosiasi.pdb
+c:\users\amikom\source\repos\asosiasi\asosiasi\obj\Debug\asosiasi.exe
+c:\users\amikom\source\repos\asosiasi\asosiasi\obj\Debug\asosiasi.pdb
